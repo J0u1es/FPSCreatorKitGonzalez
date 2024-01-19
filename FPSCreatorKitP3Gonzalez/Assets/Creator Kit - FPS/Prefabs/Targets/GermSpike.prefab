@@ -249,7 +249,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   health: 5
-  pointValue: 0
+  pointValue: 6
   DestroyedEffect: {fileID: 0}
   HitPlayer: {fileID: 7278075262556276659}
   IdleSource: {fileID: 6959345329200658814}
